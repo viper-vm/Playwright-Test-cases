@@ -1,2 +1,2 @@
-# Playwright-Test-cases-
+# Playwright-Test-cases
 Playwright Test Cases for TechImpact
